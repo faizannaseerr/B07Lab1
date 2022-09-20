@@ -3,7 +3,7 @@ import java.lang.Math;
 public class Polynomial {
   double[] coefficients = {0.0};
 
-  public Polynomial(){
+  public Polynomial() {
   }
 
   public Polynomial(double[] c) {
